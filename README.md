@@ -1,2 +1,2 @@
 # Session
-PHP Session
+JSP Session
